@@ -1,0 +1,1 @@
+<% response.sendRedirect("artist/list"); %>
